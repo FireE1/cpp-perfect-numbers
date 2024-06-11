@@ -6,7 +6,10 @@ In number theory, a perfect number is a positive integer that is equal to the su
 From [Wiki](https://en.wikipedia.org/wiki/Perfect_number)
 
 ## Why this program exist:
-I got inspired by video 'The oldest unsolved problem in math' by Veritasium on [YouTube](https://youtu.be/Zrv1EDIqHkY?si=NtNIFFTTAPdiy1ta), so i thought 'i want to write it as a program'. And here it is.
+I got inspired by video 'The oldest unsolved problem in math' by Veritasium on [YouTube](https://www.youtube.com/watch?v=Zrv1EDIqHkY), so i thought 'i want to write it as a program'. And here it is. <br />
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Zrv1EDIqHkY
+" target="_blank"><img src="http://img.youtube.com/vi/Zrv1EDIqHkY/0.jpg" 
+alt="" width="240" height="180" border="10" /></a>
 
 ## Usage:
 Nothing special, just start it in your console.
